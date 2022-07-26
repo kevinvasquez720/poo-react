@@ -1,5 +1,4 @@
 const Cita =({cita, eliminarCita})=>(
-    <div>
         <div className="cita">
             <p>Mascota <span>{cita.mascota}</span></p>
             <p>Propietaro:<span>{cita.propietario}</span></p>
@@ -12,7 +11,6 @@ const Cita =({cita, eliminarCita})=>(
             >Eliminar</button>
         </div>
         
-    </div>
     )
     
     export default Cita
