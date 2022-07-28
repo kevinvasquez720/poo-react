@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/poo-react/static/css/main.746fd87f.css",
+    "main.js": "/poo-react/static/js/main.c061bcc4.js",
+    "static/js/787.3e55ea95.chunk.js": "/poo-react/static/js/787.3e55ea95.chunk.js",
+    "index.html": "/poo-react/index.html",
+    "main.746fd87f.css.map": "/poo-react/static/css/main.746fd87f.css.map",
+    "main.c061bcc4.js.map": "/poo-react/static/js/main.c061bcc4.js.map",
+    "787.3e55ea95.chunk.js.map": "/poo-react/static/js/787.3e55ea95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.746fd87f.css",
+    "static/js/main.c061bcc4.js"
+  ]
+}
